@@ -108,7 +108,7 @@ def create_ticket(tickets, title, category, urgency, affected_users):
 
 def create_ticket_from_input(tickets):
     title = input("Title: ")
-    category = input("Category (Network/Hardware/Software/Other): ")
+    category = input("Category (Network/Hardware/Software): ")
     urgency = input("Urgency (low/medium/high): ")
     users_text = input("Affected users: ")
 
