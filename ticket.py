@@ -83,7 +83,6 @@ def ticket(ticket_id, title, category, urgency, affected_users):
 
 
 def next_id(tickets):
-    # Find the highest existing ticket number
     highest_number = 0
 
     for existing_ticket in tickets:
