@@ -8,45 +8,5 @@
         "status": "open",
         "assigned_to": null,
         "priority": "low"
-    },
-    {
-        "id": "T002",
-        "title": "wifi",
-        "affected_users": 2,
-        "category": "Network",
-        "urgency": "low",
-        "status": "open",
-        "assigned_to": "Mrs ene",
-        "priority": "low"
-    },
-    {
-        "id": "T003",
-        "title": "wifi",
-        "affected_users": 2,
-        "category": "Network",
-        "urgency": "low",
-        "status": "open",
-        "assigned_to": null,
-        "priority": "low"
-    },
-    {
-        "id": "T004",
-        "title": "wifi",
-        "affected_users": 45,
-        "category": "Network",
-        "urgency": "high",
-        "status": "open",
-        "assigned_to": null,
-        "priority": "critical"
-    },
-    {
-        "id": "T005",
-        "title": "wifi",
-        "affected_users": 2,
-        "category": "Network",
-        "urgency": "low",
-        "status": "open",
-        "assigned_to": null,
-        "priority": "low"
     }
 ]
