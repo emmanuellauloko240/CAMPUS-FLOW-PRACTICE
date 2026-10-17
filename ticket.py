@@ -129,4 +129,4 @@ def create_ticket_from_input(tickets):
 
 
 if __name__ == "__main__":
-    main()
+    main_main()
