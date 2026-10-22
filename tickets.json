@@ -6,6 +6,36 @@
         "category": "Network",
         "urgency": "low",
         "status": "open",
+        "assigned_to": "MRS BANANA",
+        "priority": "low"
+    },
+    {
+        "id": "T002",
+        "title": "Wifi is down",
+        "affected_users": 2,
+        "category": "Network",
+        "urgency": "low",
+        "status": "open",
+        "assigned_to": null,
+        "priority": "low"
+    },
+    {
+        "id": "T003",
+        "title": "laptop",
+        "affected_users": 567,
+        "category": "Hardware",
+        "urgency": "high",
+        "status": "open",
+        "assigned_to": null,
+        "priority": "critical"
+    },
+    {
+        "id": "T004",
+        "title": "wifi",
+        "affected_users": 2,
+        "category": "Network",
+        "urgency": "low",
+        "status": "open",
         "assigned_to": null,
         "priority": "low"
     }
